@@ -1,10 +1,13 @@
 # ELANKOVAN GOPAL
 
+Updated: Thu 22 Aug 3:44 AM
+
 **Skill Trainer & Technology Consultant**  
 (Male, 29 y.o.)  
 **Phone:** [9940275422](https://wa.me/919940275422)  
 **Email:** [elankovanmg@gmail.com](mailto:elankovanmg@gmail.com)  
 **Website:** [ilailabs.github.io/elan-iisc](https://ilailabs.github.io/elan-iisc)
+
 **Download Resume:** [click to download](https://raw.githubusercontent.com/ilailabs/elan-iisc/main/Inhouse_Trainer_Elankovan_Gopal_IITMadras_240822.pdf)
 
 -----
