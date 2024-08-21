@@ -1,7 +1,4 @@
-Here is the extracted text from the PDF converted to Markdown and augmented to the previously provided Markdown content:
-
-```markdown
-# Elankovan Gopal
+# ELANKOVAN GOPAL
 
 **Skill Trainer & Technology Consultant**  
 (Male, 29 y.o.)  
@@ -148,6 +145,5 @@ Passionate about technology and innovation, I am dedicated to leveraging my educ
 - Xaults
 - AMEPOS
 - AME Chain
-```
 
-The file is now well-organized with proper numbering for titles.
+  
